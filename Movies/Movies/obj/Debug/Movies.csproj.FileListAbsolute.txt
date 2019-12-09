@@ -1,0 +1,16 @@
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\bin\Debug\Movies.exe.config
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\bin\Debug\Movies.exe
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\bin\Debug\Movies.pdb
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.csprojAssemblyReference.cache
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.Form1.resources
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.Properties.Resources.resources
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.csproj.GenerateResource.cache
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.exe
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.pdb
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.Regisztracio.resources
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\bin\Debug\Newtonsoft.Json.dll
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\bin\Debug\RestSharp.dll
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\bin\Debug\Newtonsoft.Json.xml
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\bin\Debug\RestSharp.xml
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.csproj.CopyComplete
+H:\Szolgáltatás-orientált programozás gy\Beadando_vegleges\Movies\Movies\obj\Debug\Movies.Movie.resources
